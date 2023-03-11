@@ -1,13 +1,13 @@
 <!-- Heading -->
-<h1>Welcome to Kevin Seo's Github! 👨🏻‍💻</h1>
+<h1>Welcome to Kevin Seo's Github!</h1>
 
 <!-- About Me🏻‍-->
-+ Software Engineer at [Zzan](https://www.zzan.io/)
-+ BS in Computer Science & BA in Economics at [Emory University](https://www.emory.edu/home/index.html)
-+ Dedicated and passionate software engineer
++ Dedicated and passionate coder 🔥
++ Software Engineer at [Zzan](https://www.zzan.io/) 👨🏻‍💻
++ BS in Computer Science & BA in Economics at [Emory University](https://www.emory.edu/home/index.html) 📖
 
 <!-- Favorite Tech Stacks -->
-<h2>Favorite Tech Stacks 💻</h2>
+<h2>🛠️ Favorite Tech Stacks 🛠️</h2>
 
 <ul>
   <li> Frontend:
@@ -36,7 +36,7 @@
 </ul>
 
 <!-- Contacts -->
-<h2>Contacts 📞</h2>
+<h2>📞 Contacts 📞</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/Kevin%20Seo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)](httpshttps://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)
 [![Gmail Badge](https://img.shields.io/badge/-seohyounggyoo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seohyounggyoo@gmail.com)](mailto:seohyounggyoo@gmail.com)
