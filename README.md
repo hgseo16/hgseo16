@@ -1,10 +1,13 @@
 <!-- Heading -->
-<h1>Welcome to Kevin Seo's Github!</h1>
+# Welcome to Kevin Seo's Github! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hgseo16.hgseo16)
 
 <!-- About Me🏻‍-->
 + Dedicated and passionate coder 🔥
 + Software Engineer at [Zzan](https://www.zzan.io/) 👨🏻‍💻
 + BS in Computer Science & BA in Economics at [Emory University](https://www.emory.edu/home/index.html) 📖
+
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgseo16&show_icons=true&include_all_commits=true)
 
 <!-- Favorite Tech Stacks -->
 <h2>🛠️ Favorite Tech Stacks 🛠️</h2>
