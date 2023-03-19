@@ -26,6 +26,8 @@
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=ffffff"/>
     </p>
   </li>
   <li> Devops:
@@ -43,3 +45,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Kevin%20Seo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)](httpshttps://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)
 [![Gmail Badge](https://img.shields.io/badge/-seohyounggyoo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seohyounggyoo@gmail.com)](mailto:seohyounggyoo@gmail.com)
+
+<!-- Resources 
+For making custom badges: 
+  - https://shields.io/
+  - https://simpleicons.org/
+--> 
