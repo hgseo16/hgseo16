@@ -7,7 +7,7 @@
 + Software Engineer at [Zzan](https://www.zzan.io/) 👨🏻‍💻
 + BS in Computer Science & BA in Economics at [Emory University](https://www.emory.edu/home/index.html) 📖
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgseo16&show_icons=true&include_all_commits=true)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgseo16&show_icons=true)
 
 <!-- Favorite Tech Stacks -->
 <h2>🛠️ Favorite Tech Stacks 🛠️</h2>
