@@ -43,7 +43,7 @@
 <!-- Contacts -->
 <h2>📞 Contacts 📞</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/Kevin%20Seo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)](httpshttps://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)
+[![Linkedin Badge](https://img.shields.io/badge/Kevin%20Seo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)](https://www.linkedin.com/in/hyoung-gyoo-seo-0826021b6/)
 [![Gmail Badge](https://img.shields.io/badge/-seohyounggyoo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seohyounggyoo@gmail.com)](mailto:seohyounggyoo@gmail.com)
 
 <!-- Resources 
